@@ -30,13 +30,14 @@ h1{
 }
 #collapsable-nav{
   background-color: #f2d2e6;
-border-bottom-style:1px solid;
+
 }
-#nav-list{
+#nav-list li{
   font-size: 1.6em;
   text-align: center;
   padding: 5px;
-
+border-bottom-style: solid ;
+border-width: 1px;
 
 }
 .container button{
